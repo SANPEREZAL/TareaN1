@@ -54,3 +54,5 @@ En el ejercicio 28, se nos pide que implementemos una sentencia switch, pero al 
 No entendi muy bien el ejercicio 29, no lo realice
 
 Y para finalizar, en el ejercicio 30, definimos la funcion primo, en la que si el numero que intrducimos es menor o igual a 1, directamente el programa retornara false, porque el numero primo mas chiquito es 2, entonces el rango de nuestra funcion debe estar entre el 2 y el numero de entrada. Si el resto de la division entre nuestro numero y el valor que tome i es 0, eso quiere decir que nuestro numero no es primo, por lo que el programa retorna false nuevamente. Y ya para terminar con este ejercicio, el ultimo ciclo for recorre los numeros desde el 2 hasta el valor de entrada, y si ese valor luego de haber pasado por la funcion primo retorna True, significa que es un numero primo, por lo que se imprime
+
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/c15dfc3629b73fe2b504d6a30893cc32a1cfe688/30.jpg)
