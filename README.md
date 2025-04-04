@@ -25,6 +25,8 @@ En el ejercicio 20 simplemente conociendo la formula del area de un rectangulo (
 
 En el ejercicio 21 usamos la condicion if, donde luego de haber introducido nos numeros enteros, esta condicion if evalua cual de los dos es mayor e imprime si el primero es mayor que el segundo, o si el segundo es mayor que el primero, y en caso de que sean iguales, tambien el programa imprime que ambos valores son iguales
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/63513c2ee06b8dd6ff53cdbe3f9f0dfe634c8472/21.jpg)
+
 En el ejercicio 22, luego de que el usuario haya introducido un numero, el ciclo while recorrera todos los numeros menores al que fue introducido (empezando desde el 1) y simplemente les sumara 2 unidades a cada uno para asi obtener todos los impares menor al valor de entrada
 
 En el ejercicio 23, definimos la funcion algoritmo, el la cual el ciclo while seguira funcionando siempre y cuando b no sea 0, y en el a tomara el valor de b y b el resto de la divison entre a y b (a % b), asi cuando b alcance el valor de 0, el ciclo retornara el valor de a, el cual seria el gcd (MCD)
