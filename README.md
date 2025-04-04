@@ -9,6 +9,8 @@ En el ejercicio 16 lo que hacemos con el bucle for es repetir un proceso, y con 
 
 En el ejercicio 17 evidenciamos un proceso parecido, solo que esta vez los numeros del 1 al 100, entonces el ciclo for toma cada uno de estos numeros y los eleva al cuadrado, para luego sumarlos una vez recorridos los 100
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/96c9bc96a7fb1567701fa18e87b49f8eb54cf74a/17.jpg)
+
 En el ejercicio 18 el usuario introduce un numero entero, y el ciclo for recorre el rango comprendido entre el numero que se digito y sus 100 numeros siguientes, para luego imprimir la suma de todos los numeros que fueron recorridos
 
 En el ejercicio 19, asignamos a la variable valor la equivalencia euros = dolar (1 euro = 1.09 dolares), para luego por medio de un input, hacer que el usuario introduzca la cantidad de euros que quiere transformar, y luego que la variable dolar este determinada por la multiplicacion de la cantidad de euros por el valor de la equivalencia
