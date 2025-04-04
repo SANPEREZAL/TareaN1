@@ -21,6 +21,8 @@ En el ejercicio 19, asignamos a la variable valor la equivalencia euros = dolar 
 
 En el ejercicio 20 simplemente conociendo la formula del area de un rectangulo (base x altura) hacemos que el usuario ingrese ambos valores, para luego hacer una operacion sencilla como la de los primeros puntos
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/673ae5dd7d961a97f05ff47982fdb14596005e5c/20.jpg)
+
 En el ejercicio 21 usamos la condicion if, donde luego de haber introducido nos numeros enteros, esta condicion if evalua cual de los dos es mayor e imprime si el primero es mayor que el segundo, o si el segundo es mayor que el primero, y en caso de que sean iguales, tambien el programa imprime que ambos valores son iguales
 
 En el ejercicio 22, luego de que el usuario haya introducido un numero, el ciclo while recorrera todos los numeros menores al que fue introducido (empezando desde el 1) y simplemente les sumara 2 unidades a cada uno para asi obtener todos los impares menor al valor de entrada
