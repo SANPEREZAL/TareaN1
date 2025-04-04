@@ -5,6 +5,8 @@ Desde los ejercicios 1 hasta el 15 considero que es bastante simple comprender l
 
 En el ejercicio 16 lo que hacemos con el bucle for es repetir un proceso, y con la funcion range es tomamos los 20 primeros numeros anturales (1-20), para despues multiplicarlos entre ellos cada vez que se complete un ciclo
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/b313bbffb03a50c87e2a140388dc490af68246db/16.jpg)
+
 En el ejercicio 17 evidenciamos un proceso parecido, solo que esta vez los numeros del 1 al 100, entonces el ciclo for toma cada uno de estos numeros y los eleva al cuadrado, para luego sumarlos una vez recorridos los 100
 
 En el ejercicio 18 el usuario introduce un numero entero, y el ciclo for recorre el rango comprendido entre el numero que se digito y sus 100 numeros siguientes, para luego imprimir la suma de todos los numeros que fueron recorridos
