@@ -29,6 +29,8 @@ En el ejercicio 21 usamos la condicion if, donde luego de haber introducido nos 
 
 En el ejercicio 22, luego de que el usuario haya introducido un numero, el ciclo while recorrera todos los numeros menores al que fue introducido (empezando desde el 1) y simplemente les sumara 2 unidades a cada uno para asi obtener todos los impares menor al valor de entrada
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/2ce8cf18bf03ec820f6a3aa997cf352ce9b6b09a/22.jpg)
+
 En el ejercicio 23, definimos la funcion algoritmo, el la cual el ciclo while seguira funcionando siempre y cuando b no sea 0, y en el a tomara el valor de b y b el resto de la divison entre a y b (a % b), asi cuando b alcance el valor de 0, el ciclo retornara el valor de a, el cual seria el gcd (MCD)
 
 Para resolver el ejercicio 24 debemos recordar que para hayar las soluciones de una ecuacion cuadratica, se debe cumplir la condicion de que el primer coeficiente no puede ser 0, por lo que luego de que el usuario digitara sus 3 numeros, lo primero que hace el condicional es verificar esto, y en caso de que a = 0, el programa imprimira inmediatamente que la ecuacion no es cuadratica, en caso de no ser asi, pasamos a hayar el discriminante, que es el que nos permite determinar las posibles soluciones, en donde se pueden presentar 3 casos: a- el discriminante es mayor a 0, por ende la ecuacion tiene dos soluciones reales, b- el discriminante es 0, por lo que tendria una solucion real, y c- el discriminante es menor a 0, por lo que para solucionar la ecuacion tendriamos que recurrir a los numeros complejos
