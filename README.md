@@ -13,6 +13,8 @@ En el ejercicio 17 evidenciamos un proceso parecido, solo que esta vez los numer
 
 En el ejercicio 18 el usuario introduce un numero entero, y el ciclo for recorre el rango comprendido entre el numero que se digito y sus 100 numeros siguientes, para luego imprimir la suma de todos los numeros que fueron recorridos
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/6254ba2107d12fc2f8faf5efa4187e039b6efbb1/18.jpg)
+
 En el ejercicio 19, asignamos a la variable valor la equivalencia euros = dolar (1 euro = 1.09 dolares), para luego por medio de un input, hacer que el usuario introduzca la cantidad de euros que quiere transformar, y luego que la variable dolar este determinada por la multiplicacion de la cantidad de euros por el valor de la equivalencia
 
 En el ejercicio 20 simplemente conociendo la formula del area de un rectangulo (base x altura) hacemos que el usuario ingrese ambos valores, para luego hacer una operacion sencilla como la de los primeros puntos
