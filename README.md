@@ -45,6 +45,8 @@ En el ejercicio 26, luego de haber introducido los 3 numeros a evaluar, el ciclo
 
 En el ejercicio 27, definimos la funcion conversions, en la que digitamos la conversion respectiva de fahrenheit a celsius, y por medio del input el usuario podra introducir el valor que quiera convertir de fahrenheit a celsius, y el programa por medio del while True, se seguira ejecutando hasta que el usuario digite como temperatura 999, y se imprimira el valor convertido a celsius en caso de no haber intentado con 999
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/83af539e3a29978fa3e1f1efec486e4b3f697158/27.jpg)
+
 En el ejercicio 28, se nos pide que implementemos una sentencia switch, pero al no existir en python, recurri al uso de concidionales if,elif,else, en donde luego de haber usando el ciclo for, el programa evaluara los valores de i e imprimira respectivamente un mensaje de prueba para cada iteracion que se haga. En el ejercicio no hice uso de los break porque simplemente luego de imprimir un mensaje el programa se detendria, por lo que si agregamos la sentencia break, el programa simplemente se detendra luego de una impresion, por lo que al removerlo lo unico que pasara es que el programa continuara imprimiendo las veces que sean necesarias
 
 No entendi muy bien el ejercicio 29, no lo realice
