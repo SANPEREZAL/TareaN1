@@ -49,6 +49,8 @@ En el ejercicio 27, definimos la funcion conversions, en la que digitamos la con
 
 En el ejercicio 28, se nos pide que implementemos una sentencia switch, pero al no existir en python, recurri al uso de concidionales if,elif,else, en donde luego de haber usando el ciclo for, el programa evaluara los valores de i e imprimira respectivamente un mensaje de prueba para cada iteracion que se haga. En el ejercicio no hice uso de los break porque simplemente luego de imprimir un mensaje el programa se detendria, por lo que si agregamos la sentencia break, el programa simplemente se detendra luego de una impresion, por lo que al removerlo lo unico que pasara es que el programa continuara imprimiendo las veces que sean necesarias
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/95c1ad0e807d8d3863eecfc4a0e4bfa6c7de6a19/28.jpg)
+
 No entendi muy bien el ejercicio 29, no lo realice
 
 Y para finalizar, en el ejercicio 30, definimos la funcion primo, en la que si el numero que intrducimos es menor o igual a 1, directamente el programa retornara false, porque el numero primo mas chiquito es 2, entonces el rango de nuestra funcion debe estar entre el 2 y el numero de entrada. Si el resto de la division entre nuestro numero y el valor que tome i es 0, eso quiere decir que nuestro numero no es primo, por lo que el programa retorna false nuevamente. Y ya para terminar con este ejercicio, el ultimo ciclo for recorre los numeros desde el 2 hasta el valor de entrada, y si ese valor luego de haber pasado por la funcion primo retorna True, significa que es un numero primo, por lo que se imprime
