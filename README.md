@@ -17,6 +17,8 @@ En el ejercicio 18 el usuario introduce un numero entero, y el ciclo for recorre
 
 En el ejercicio 19, asignamos a la variable valor la equivalencia euros = dolar (1 euro = 1.09 dolares), para luego por medio de un input, hacer que el usuario introduzca la cantidad de euros que quiere transformar, y luego que la variable dolar este determinada por la multiplicacion de la cantidad de euros por el valor de la equivalencia
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/ca93f76508315da138be9de9826c041d2a879bcf/19.jpg)
+
 En el ejercicio 20 simplemente conociendo la formula del area de un rectangulo (base x altura) hacemos que el usuario ingrese ambos valores, para luego hacer una operacion sencilla como la de los primeros puntos
 
 En el ejercicio 21 usamos la condicion if, donde luego de haber introducido nos numeros enteros, esta condicion if evalua cual de los dos es mayor e imprime si el primero es mayor que el segundo, o si el segundo es mayor que el primero, y en caso de que sean iguales, tambien el programa imprime que ambos valores son iguales
