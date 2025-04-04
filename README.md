@@ -1,5 +1,7 @@
 Desde los ejercicios 1 hasta el 15 considero que es bastante simple comprender las lineas de codigo, son cosas supremamnete bascias como operaciones simples y bucles
 
+![Image_Alt](https://github.com/SANPEREZAL/TareaN1/blob/037659a2998e6fd6628b267dde37de35700b56e4/1-8.jpg)
+
 En el ejercicio 16 lo que hacemos con el bucle for es repetir un proceso, y con la funcion range es tomamos los 20 primeros numeros anturales (1-20), para despues multiplicarlos entre ellos cada vez que se complete un ciclo
 
 En el ejercicio 17 evidenciamos un proceso parecido, solo que esta vez los numeros del 1 al 100, entonces el ciclo for toma cada uno de estos numeros y los eleva al cuadrado, para luego sumarlos una vez recorridos los 100
